@@ -44,7 +44,7 @@ plt.show()
 ```
 
 ## Proof of work
-
+![image](https://github.com/user-attachments/assets/e8440c00-4076-4f37-9aac-21f0658f7e0e)
 
 
 
