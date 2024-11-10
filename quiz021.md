@@ -27,4 +27,5 @@ plt.show()
 ```
 
 ### Proof of Work
+![image](https://github.com/user-attachments/assets/54d36d3b-7eb3-412e-b6b9-ba654c9c46cb)
 
