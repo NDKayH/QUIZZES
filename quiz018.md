@@ -2,6 +2,7 @@
 
 
 ## Paper Solution
+![IMG_1103](https://github.com/user-attachments/assets/1c5e1e93-d942-43c3-8618-8ecc6a4cf7b6)
 
 
 ## Code
