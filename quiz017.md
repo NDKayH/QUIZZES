@@ -13,7 +13,7 @@ def average_word_length(input_list):
     total_length = sum(len(word) for word in input_list)
     
     if len(input_list) == 0:
-        return 0.0  # Avoid division by zero if the list is empty
+        return 0.0  # to avoid division by zero if the list is empty
     
     average_length = total_length / len(input_list)
     return average_length
