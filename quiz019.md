@@ -5,6 +5,20 @@
 
 ## Code
 ```.py
+import random
+
+def produce(n=5, m=3, s=2):
+    random.seed(1234) 
+    x_values = [random.randint(0, 100) for _ in range(n)]
+    y_values = [x * (0.5 * (m / s) ** 2) for x in x_values]
+    return list(zip(x_values, y_values))
+
+# Example usage
+sample = produce(n=5, m=3, s=2)
+print(" |   x   |   y(x)   |")
+print("---------------------")
+for x, y in sample:
+    print(f" | {x:>4} | {y:>7.2f} |")
 
 ```
 
