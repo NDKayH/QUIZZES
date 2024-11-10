@@ -36,8 +36,8 @@ plt.legend()
 plt.grid(True)
 
 plt.show()
-![image](https://github.com/user-attachments/assets/4e70e0b0-c882-4ed4-9439-96205acf8d5d)
 
 ```
 
 ## Proof of work
+![image](https://github.com/user-attachments/assets/4e70e0b0-c882-4ed4-9439-96205acf8d5d)
