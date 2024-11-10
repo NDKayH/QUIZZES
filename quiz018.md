@@ -7,7 +7,7 @@
 ## Code
 ```.py
 # AB + not(B) + not(C)B
-def boolean_expression(A, B, C):
+def table(A, B, C):
     return (A and B) or (not B) or (not C and B)
 
 print("| A | B | C | AB + not B + not CB |")
@@ -17,11 +17,11 @@ for A in [0, 1]:
     for B in [0, 1]:
         for C in [0, 1]:
 
-            result = boolean_expression(A, B, C)
+            result = table(A, B, C)
 
-            print(f"| {A} | {B} | {C} | {int(result)} |")
+            print(f"| {A} | {B} | {C} |          {int(result)}          |")
 
 ```
 
 ## Proof of work
-![image](https://github.com/user-attachments/assets/a3be11e8-e1ee-49b3-9039-454f3b149a83)
+![image](https://github.com/user-attachments/assets/310f2424-a8b4-47a4-985f-832bb93d9746)
