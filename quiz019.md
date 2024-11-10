@@ -1,6 +1,7 @@
 # Quiz 019
 
 ## Paper Solution
+![IMG_1104](https://github.com/user-attachments/assets/a0584b37-6ceb-43f8-8b89-dd19a0d7f4d2)
 
 
 ## Code
