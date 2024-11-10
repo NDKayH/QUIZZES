@@ -1,4 +1,4 @@
-# Quiz 024
+# Quiz 023
 
 
 ## Paper Solution
