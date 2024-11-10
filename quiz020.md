@@ -13,7 +13,7 @@ matplotlib.use('MacOSX')
 
 # create the lists x and y
 start = -10
-step = 0.2  # step adjusted for 100 points between -10 and 10
+step = 0.2  
 x, y = [], []
 
 for i in range(int(20 / step)):  # 20 = -10 to 10
