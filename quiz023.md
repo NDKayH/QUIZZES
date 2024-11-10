@@ -1,9 +1,5 @@
 # Quiz 023
 
-
-## Paper Solution
-
-
 ## Code
 ```.py
 import matplotlib.pyplot as plt
