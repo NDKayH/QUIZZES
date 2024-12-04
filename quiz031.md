@@ -42,6 +42,6 @@ plt.show()
 ```
 
 ### Proof of Work
-![image](https://github.com/user-attachments/assets/540a2723-f822-453e-9253-3be00201fc7b)
+![Uploading image.png…]()
 
 
